@@ -39,7 +39,7 @@ http://127.0.0.1:8888/?token=<some_long_token>
 
 Open the URL in your web browser.
 
-Then open the notebook and launch `analysis\sleep-disorder-analysis.ipynb` with the default Python kernel.
+Then open the notebook `analysis\sleep-disorder-analysis.ipynb` with the default Python kernel.
 
 ### In a local Conda environment
 
