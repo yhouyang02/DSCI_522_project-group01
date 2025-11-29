@@ -22,7 +22,7 @@ Make sure you have [Docker](https://www.docker.com/get-started/) installed and r
 Pull the docker image from Docker Hub:
 
 ```bash
-docker pull yhouyang02/dsci522-project-group01:v1.0.0
+docker pull yhouyang02/dsci522-project-group01:latest
 ```
 
 Run the docker container:
