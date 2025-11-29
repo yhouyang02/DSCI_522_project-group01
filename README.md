@@ -47,7 +47,7 @@ Clone the project repo and create the environment using `conda-lock` (recommende
 
 ```bash
 # conda-lock
- conda-lock install --name dsci522 conda-lock.yml
+conda-lock install --name dsci522 conda-lock.yml
 ```
 
 ```bash
